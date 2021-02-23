@@ -4,6 +4,11 @@ import numpy as np
 import scipy as sp
 import pandas_datareader as pd_data
 
+"""
+Credit to PyPortfolioOpt Library build by R.Martin
+pyportfolioopt.readthedocs.io/
+"""
+
 start_date = '2015-09-01'
 end_date = '2015-12-31'
 
